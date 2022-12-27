@@ -1,2 +1,2 @@
 # Web-Designing
-Here some basic projects which is create with using HTML , CSS &amp; Bootstraps 
+Here some basic projects which is create with using HTML , CSS &amp; Bootstrap
